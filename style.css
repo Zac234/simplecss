@@ -1,0 +1,33 @@
+#first{
+    background-color: blue;
+    width: 10cm;
+    height: 15cm;
+}
+#second{
+    background-color: coral;
+    width: 10mm;
+    height:15mm;
+
+}
+#third{
+    background-color: red;
+    width: 10in;
+    height: 15in;
+}
+
+#fourth{
+    background-color: purple;
+    width: 10px;
+    height:15px;
+}
+#fifth{
+    background-color: yellow;
+    width: 10pt;
+    height: 15pt;
+
+}
+#sixth{
+    background-color: darkmagenta;
+    width: 10pc;
+    height: 15pc;
+}
